@@ -1,15 +1,8 @@
 ---
-theme: league
-highlightTheme: monokai
-progress: true
----
-<!-- .slide: style="background-color: SlateGray;" -->
 ## Teología Moral de la Persona
 <br>
 <br>
-
 #### 2. La Sacralidad de la Vida
-
 ---
 
 ## Fundamentos Bíblicos
@@ -19,12 +12,6 @@ Dios es Vida y Señor de la Vida. Es el Dios Vivo.
 El hombre es imagen de Dios: por tanto, es **inviolable**
 
 Los crímenes contra la vida son crímenes contra Dios
-
-notes: 
-1. No sólo nos da la vida sino que deja algo suyo en cada hombre.
-2. Marca de Caín
-3. Sangre de Able. La sangre de tu hermano grita a mi desde la tierra.
-4. Cristo. Camino Verdad y Vida. La vida es una categoría muy importante: vid y sarmientos, pan de vida. La vida es de Dios, nosotros la recibimos.
 
 ---
 ## La Imagen de Dios
