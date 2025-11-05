@@ -1,3 +1,8 @@
+<style>
+.red { color: #e74c3c; }
+.blue { color: rgb(19, 218, 236) }
+.gold { color: goldenrod; }
+</style>
 
 ## Teología Moral de la Persona
 <br>
@@ -16,21 +21,25 @@ El hombre es imagen de Dios: por tanto, es **inviolable**
 Los crímenes contra la vida son crímenes contra Dios
 
 ---
+
 ## La Imagen de Dios
 
-El hombre es **imagen de Dios**. Imagen y Semejanza
+El hombre es <span class="blue">imagen de Dios</span>: Imagen y Semejanza
 
-También es **imagen de Cristo**: Imagen de la Imagen
+También es <span class="blue">imagen de Cristo</span>: Imagen de la Imagen
 
 ---
+
 ## Naturaleza Espiritual del Hombre
 
-“Dios formó al hombre con polvo del suelo, e insufló en sus narices aliento de vida, y resultó el hombre un ser viviente”
+“Dios formó al hombre con polvo del suelo, e insufló en sus narices aliento de vida, y resultó el hombre un ser viviente” (Gen 2,7)
 
 Note: 
 1. Es necesaria la intervención divina para que el hombre sea un ser espiritual.
 2. desde su mismo origen exige la acción creadora de Dios
+
 ---
+
 ## ¿Qué significa "Sagrado"?
 
 Ser sagrado = ser de Dios
@@ -64,6 +73,7 @@ Es un don peculiar que sigue perteneciendo a su Dueño
 El don se hace mandamiento. El mandamiento es un don
 
 Note:
+
 1. No creyentes: Todos nos hemos encontrado **existiendo**
 
 ---
@@ -74,7 +84,7 @@ Note:
 
 Es un misterio.
 
-Por **amor puro**, generosidad gratuita. Sin necesidad alguna.
+Por amor puro, generosidad gratuita. Sin necesidad alguna.
 
 Note:
 1. La muerte de Cristo muestra el extremo hasta el que llega el amor de Dios: ha querido compartir nuestro sufrimiento
@@ -85,7 +95,7 @@ Note:
 
 "Yo doy la muerte y la vida" (Dt 32, 39)
 
-Solo Dios es dueño absoluto. El hombre es **administrador**
+Solo Dios es dueño absoluto. El hombre es administrador.
 
 Debe disponer de su vida con sabiduría y amor
 
@@ -103,7 +113,8 @@ Existe desde antigüedad
 - Grecia (s. V-IV a.C.): se practicaba por razones demográficas
 - Debate hasta s. XV sobre "animación"
 
-Note: 40 días según santo tomás. 80 para las mujeres. No conocían nada de embriología.
+Note: 
+40 días según Santo Tomás. 80 para las mujeres. No conocían nada de embriología.
 
 ---
 
@@ -111,7 +122,7 @@ Note: 40 días según santo tomás. 80 para las mujeres. No conocían nada de em
 
 Eliminación deliberada de un ser humano desde la concepción
 
-Desde la fecundación: **nueva vida humana**
+Desde la fecundación hay una <span class="blue">nueva vida humana</span>
 
 Exige respeto incondicional como persona
 
@@ -138,7 +149,7 @@ Exige respeto incondicional como persona
 3. *Ético*. Casos de Violación. No cambia el juicio moral.
 
 Note: 
-1. no obliga a la madre.
+1. No obliga a la madre.
 2. Pena de Excomunión. 
 3. Traumas de las madres y de los cooperadores.
 
@@ -163,7 +174,7 @@ Ambos son **igualmente inmorales**
 
 ## El Sentido del Sufrimiento
 
-> "Lo que cura al hombre no es esquivar el sufrimiento, sino la capacidad de aceptarlo y encontrar sentido mediante la unión con Cristo", Benedicto XVI
+"Lo que cura al hombre no es esquivar el sufrimiento, sino la capacidad de aceptarlo y encontrar sentido mediante la unión con Cristo" (Benedicto XVI)
 
 La falta de esperanza causa el mayor sufrimiento
 El dolor puede unirse a Cristo
@@ -204,6 +215,6 @@ Necesidades espirituales en cercanía de la muerte
 
 ## Llamada a la Compasión
 
-> "Una sociedad que no logra aceptar a los que sufren y no es capaz de compartir el sufrimiento es una sociedad cruel e inhumana"
+Una sociedad que no logra aceptar a los que sufren y no es capaz de compartir el sufrimiento es una sociedad cruel e inhumana
 
-**La grandeza humana se mide por la relación con el sufrimiento**
+La grandeza humana se mide por la relación con el sufrimiento
