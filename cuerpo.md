@@ -68,7 +68,7 @@ Adán lo tiene todo, pero **le falta algo**: "No es bueno que el hombre esté so
 2. Deseo de comunión con otro
 3. Anhelo del Otro (Dios)
 
-notes:
+Note:
 1. La soledad alude a algo esencial. Los animales no son capaces de llenarnos
 2. El hombre quiere salir de su soledad, quiere entrar en comunión con otro.
 3. Apunta no solo hacia otro sino hacie el Otro. Nos hiciste Señor para ti y nuestro corazón está inquieto hasta que no descanse en ti.
@@ -176,7 +176,7 @@ Note:
 - Expresión del amor conyugal
 - Abierto a la transmisión de la vida
 
-Notes: 
+Note: 
 - Ed Sheeran.
 - Todos entendemos lo malo de una violación o de un abuso.
 - El posible hijo pasa a ser un peligro del cual hay que protegerse.
