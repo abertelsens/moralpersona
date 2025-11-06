@@ -176,7 +176,7 @@ Note:
 - Expresión del amor conyugal
 - Abierto a la transmisión de la vida
 
-Note: 
+Note:
 - Ed Sheeran.
 - Todos entendemos lo malo de una violación o de un abuso.
 - El posible hijo pasa a ser un peligro del cual hay que protegerse.
