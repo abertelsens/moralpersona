@@ -1,6 +1,4 @@
----
-theme: league
-progress: true
+
 ---
 
 <style>
@@ -22,7 +20,7 @@ progress: true
 
 *Una vida lograda: Moral de la Persona*: José Luis Méndez y Juan Barbeito
 
-notes: 
+Note: 
 - vale la pena. Sencillo, toca todos los temas y se lee rápido
 
 ---
@@ -37,7 +35,7 @@ notes:
 6. El Matrimonio
 7. Los Hijos como Fruto de la Donación
 
-notes:
+Note:
 - no creo que seamos capaces de ver todo.
 - Una parte de bioética y otra más dirigida al amor y la sexualidad.
 - vamos a tener clases, casos, videos. Hay de todo.
@@ -49,7 +47,7 @@ Estudiar cómo la dignidad de la persona ilumina tres grandes momentos del hombr
 
 Es una asignatura tremendamente <span class="blue">práctica </span> y con muchos temas de actualidad: aborto, eutanasia, derechos del hombre, amor conyugal…
 
-notes: 
+Note: 
 - es práctica sobre temas complejos que tocan a todos ya sea personalmente
 - evitar hacer juicios demasiado rotundos porque en una diapositiva cabe todo de forma muy sucinta, pero cuando se entra en los temas no es tan sencillo.
 ---
@@ -65,7 +63,7 @@ Ser persona es algo que nos es dado, no es algo que se adquiere.
 
 El ser humano tiene derecho a “nacer”, a “vivir” y a “morir” como hombre
 
-notes: 
+Note: 
 1. Paralelo con la **filiación Divina**. Nuestra vida consiste en desplegar aquello que ya somos. Que se manifieste aquello que se nos ha sido dado.
 2. Todo lo relativo al origen de la vida hace referencia al “nacer” con dignidad; el “vivir” con dignidad hace alusión a todo lo relativo al amor humano; y el “morir” con dignidad abarca todo el tema del dolor y el sufrimiento al final de la vida.
 3. Hay derechos que no pueden ser quitados al hombre ni por otros ni por el estado ni tampoco por la Iglesia.
@@ -79,7 +77,7 @@ El animal no puede dejar de seguir sus instintos. El hombre
 
 La dignidad de hombre se manifiesta en la <span class="blue">racionalidad</span> y en la <span class="blue">libertad</span>.
 
-notes: 
+Note: 
 1. El animal simplemente come, huye o se reproduce.
 2. Actuar o no actuar. Comer o no, por las razones que sean. Abstenerse de relaciones sexuales, etc. Nos podemos orientar a bienes más altos que guían las tendencias. Esa es la virtud.
 3. Somos seres morales que nos preguntamos constantemente con el bien. Esto lo vemos en los juicios críticos. Estamos juzgando siempre. No tienes juicios críticos contra tu perro
@@ -133,7 +131,7 @@ Soy un sujeto activo. Puedo desear, esperar, decidir, hacer.
 1. ***Transcendental***: mi querer va más allá de la naturaleza. Puedo querer lo imposible.
 2. ***Limitada***: la naturaleza impone sus límites.
 
-notes:
+Note:
 - Yo soy autor del querer. Y ese querer es único.
 - Obstáculos de la libertad
 	1. Impiden totalmente la acción, pero puedo desearlas. La libertad tiene una dimensión **trascendental**, porque va más allá de la realidad. Se puede desear lo que no se puede.
@@ -152,7 +150,7 @@ Capacidad de trascendencia, de ir más allá de lo inmediato.
 
 Ir más allá de la realidad física y de verse a sí mismo. Reflexionar sobre quién soy. Esa es la auto-consciencia. Un cierto desdoblamiento.
 
-notes:
+Note:
 1. **Monos**. Lenguaje de símbolos. Nunca han hecho una pregunta. Quizá por falta de curiosidad, quizá porque hacer una pregunta requiere saber que _no sabes algo_ y esperar que otro _sí lo sepa_
 2. **Tiempo**:Estamos inmersos en el tiempo, pero no estamos atados al instante. Podemos distanciarnos del ahora, esto es muy llamativo.
 
@@ -165,7 +163,7 @@ La responsabilidad es una característica de la acción libre: nos sentimos “r
 
 Hay acciones del hombre que no son libres: respirar, el flujo sanguíneo, sueños, etc.
 
-notes: 
+Note: 
 1. Obviamente hay condicionantes. Una chica a la que se la presiona para abortar tiene su libertad disminuida. Un vicio arraigado.
 2. Estas condicionantes son importantes a la hora de juzgar un acto moral.
 3. Pueden incluso hacer desaparecer la libertado o diminuirla en tal grado que no haya responsabilidad, ni por tanto pecado si la acción es mala.
@@ -179,7 +177,7 @@ La dignidad del hombre no se debe a que sea un ser más inteligente que el anima
 
 El uso de la razón no es lo que nos aporta dignidad, sino la condición humana.
 
-notes:
+Note:
 - La dignidad no es un tema de grado. Más libre, más dignidad, más racional, más digno.
 - De ser así, entonces los bebés y los discapacitados mentales graves carecerían de dignidad y serían equiparados al resto de los animales.
 
@@ -193,6 +191,6 @@ Es necesario distinguir las facultades de los actos.
 
 El sujeto sigue siendo el mismo, aunque no ejerza sus facultades o incluso cuando no tenga dichas facultade: cuando la persona no habla no deja de ser persona.
 
-notes: 
+Note: 
 1. El “**estado vegetativo**” consiste en un estado en el cual la persona está despierta (puede abrir los ojos en algún momento), pero es incapaz de generar una respuesta con uno mismo ni con el entorno; solamente existen respuestas motoras reflejas, pero sin ningún tipo de interacción con el medio que le rodea. 
 2. El estado de “**coma**” es un estado profundo de inconsciencia, donde la persona aparece en un estado de dormición las 24 horas del día, sin tener apertura ocular en ningún momento y donde, por lo tanto, la persona no interactúa con su entorno. En ambos estados (tanto en el vegetativo como en el estado de coma), aunque la persona haya perdido sus facultades, no por ello ha perdido su dignidad.
