@@ -38,18 +38,19 @@ Note:
 Note:
 - no creo que seamos capaces de ver todo.
 - Una parte de bioética y otra más dirigida al amor y la sexualidad.
-- vamos a tener clases, casos, videos. Hay de todo.
+- vamos a tener clases, casos, videos. Hay un poco de todo.
 ---
 
 ## Objetivo
 
 Estudiar cómo la dignidad de la persona ilumina tres grandes momentos del hombre: nacer, vivir y morir.
 
-Es una asignatura tremendamente <span class="blue">práctica </span> y con muchos temas de actualidad: aborto, eutanasia, derechos del hombre, amor conyugal…
+Es una asignatura tremendamente <span class="blue">práctica </span> y con muchos temas de actualidad: aborto, eutanasia, derechos del hombre, amor conyugal, relaciones prematrimoniales.
 
 Note: 
-- es práctica sobre temas complejos que tocan a todos ya sea personalmente
-- evitar hacer juicios demasiado rotundos porque en una diapositiva cabe todo de forma muy sucinta, pero cuando se entra en los temas no es tan sencillo.
+- Es práctica sobre temas complejos que tocan a todos ya sea personalmente
+- Evitar hacer juicios demasiado rotundos porque en una diapositiva cabe todo de forma muy sucinta, pero cuando se entra en los temas no es tan sencillo.
+- Además puede haber gente con parientes muy cercanos.
 ---
 
 ## 1. La Dignidad Humana
@@ -78,7 +79,7 @@ El animal no puede dejar de seguir sus instintos. El hombre
 La dignidad de hombre se manifiesta en la <span class="blue">racionalidad</span> y en la <span class="blue">libertad</span>.
 
 Note: 
-1. El animal simplemente come, huye o se reproduce.
+1. El animal simplemente come, huye o se reproduce. No es responsable.
 2. Actuar o no actuar. Comer o no, por las razones que sean. Abstenerse de relaciones sexuales, etc. Nos podemos orientar a bienes más altos que guían las tendencias. Esa es la virtud.
 3. Somos seres morales que nos preguntamos constantemente con el bien. Esto lo vemos en los juicios críticos. Estamos juzgando siempre. No tienes juicios críticos contra tu perro
 ---
@@ -91,6 +92,7 @@ Afirmar que la persona humana posee una dignidad significa afirmar que es <span 
 note:
 - cada persona es un fin en sí misma y no un medio. No tiene precio.
 - Somos un pensamiento de Dios que nos ha pensado y ha querido llamarnos a la existencia.
+- Un hijo que muere no puede ser sustituido por otro en el futuro.
 - algunas personas no viven de acuerdo con su dignidad, no son meritorias de ella. 
 - El hecho de no merecerla por el tipo de conducta que llevan no significa que la pierdan.
 - El Hijo Pródigo. No soy digno de llamarme hijo tuyo. No es verdad.
@@ -104,7 +106,9 @@ El ser humano es capaz de crear, de transmitir una cultura, de tener conciencia,
 Los animales tienen dignidad, pero no es la misma.
 
 note:
-- el hombre es capaz de verse en un espejo. reflexionar sobre sí. Ver su historia, esto es algo que es muy llamativo. Su autoconciencia
+- Somos capaces de proyectarnos al futuro. Eso es muy complejo.
+- el hombre es capaz de verse en un espejo. reflexionar sobre sí. Ver su historia, esto es algo que es muy llamativo. Su autoconciencia. Nos desdoblamos. Nos miramos en un espejo.
+- La conciencia es muy llamativo. Por qué me remuerde la conciencia…
 - En este tema creo que se ha ido tomando conciencia poco a poco y es bueno que así sea. No se puede tratar a los animales de cualquier manera. Sufrimiento. Pero sin caer en excesos.
 
 ---
@@ -119,14 +123,14 @@ Distintas dimensiones:
 note: 
 - tenerlo muy en cuenta a la hora de hablar con la gente, porque podemos estar hablando de cosas muy diversas.
 - El hombre “siempre es libre” porque posee la capacidad de elección. El resto de los animales no poseen esta libertad, porque no son capaces de decidir, sino que se mueven impulsados por sus instintos. Por eso no son responsables.
-- Aunque esté privado de otras libertades el hombre siempre se autoposee.
+- Aunque esté privado de otras libertades el hombre siempre se autoposee. De esto conocemos historias admirables.
 
 ---
 ## Trascendental y Limitada a la Vez
 
 La libertad apunta a quien soy, a la individualidad.
 
-Soy un sujeto activo. Puedo desear, esperar, decidir, hacer. 
+Soy un sujeto activo: puedo desear, esperar, decidir, hacer. 
 
 1. ***Transcendental***: mi querer va más allá de la naturaleza. Puedo querer lo imposible.
 2. ***Limitada***: la naturaleza impone sus límites.
@@ -138,13 +142,13 @@ Note:
 	2. Obstáculos que condicionan la acción. Pero puedo tomar una postura ante ellos, puedo moldearlos, puedo resignarme por un tiempo. Puedo trascenderlos.
 	3. Elegir significa dejar de lado otras opciones. Se algo implica no ser otra cosa.
 	4. **Libertad Moral** de los hábitos y de las costumbres. Va forjando mi carácter. Voy decidiendo cómo me hago a mi mismo. Puedo decidir cómo quiero ser e irme haciendo poco a poco.
-	5. Corrientes filosóficas que afirman los dos extremos, que no somos libres, que todo es una ilusión, otras que somos todo libertad… ideologías de género.
+	5. Corrientes filosóficas que afirman los dos extremos, que no somos libres, que todo es una ilusión, otras que somos todo libertad… La ideologías de género se nutre de una concepción de la libertad muy especifica
 	6. La Iglesia plantea una via media.
 
 ---
 ## Razón
 
-Capacidad de trascendencia, de ir más allá de lo inmediato.
+Se manifiesta en una capacidad de trascendencia, de ir más allá de lo inmediato.
 
 ¿Qué soy?, ¿De dónde vengo?, ¿Hacia dónde voy? ¿Por qué hay sufrimiento?
 
