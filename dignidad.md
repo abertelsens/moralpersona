@@ -25,7 +25,7 @@ Note:
 
 ---
 
-### Temas
+## Temas
 
 1. La Dignidad de la Persona Humana
 2. El Carácter Sagrado de la Vida
